@@ -7,8 +7,8 @@ FALLON: Perfeito! Obrigado, Parse!
 PARSLEY: Mar-Mar! Bom te ver, amiga!
 
 PARSLEY: O que é isso que você trouxe, então?
-MARIE: Essa é minha amigue nova, Tamberlane!
-MARIE: Elu é um pouco tímide, mas elu precisa da sua ajuda.
+MARIE: Essa é minha amiga nova, Tamberlane!
+MARIE: Ela é um pouco tímida, mas ela precisa da sua ajuda.
 
 PARSLEY: Não fica com medo, Tamberlane!
 PARSLEY: Como eu posso ajudar?
@@ -19,6 +19,6 @@ TAMBERLANE: ...umumum...
 
 TAMBERLANE: *awuhmumuww*
 
-PARSLEY: Ah, queride, não fica triste-
+PARSLEY: Ah, querida, não fica triste-
 FORA: *TAMBERLANE!*
 [SFX: AWUUWUUWUWAAA]
